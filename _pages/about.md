@@ -15,11 +15,12 @@ redirect_from:
     <td style="vertical-align: top;">
       <p>欢迎来到我的主页！</p>
       <p>
-        我目前是香港科技大学（广州）信息枢纽（
+        我目前是香港科技大学（广州）信息枢纽
         <a href="https://www.hkust-gz.edu.cn/academics/hubs-and-thrust-areas/information-hub/" target="_blank">Information Hub (GZ)</a>
-        ）的数据科学与分析专业的本科生（
+      <p>
+      <p>的数据科学与分析专业的本科生。<p>
+      <p>
         <a href="https://www.hkust-gz.edu.cn/" target="_blank">HKUST(GZ)</a>
-        ）。
       </p>
     </td>
   </tr>
