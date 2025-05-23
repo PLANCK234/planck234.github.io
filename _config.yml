@@ -22,7 +22,6 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   name   : "唐国富"
-  avatar : "/images/avatar.jpg"
   bio    : "本科生 @ HKUST(GZ)，研究兴趣包括数学形式化、AI中的数学与纯数学"
 
   # Academic websites
