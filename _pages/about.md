@@ -7,24 +7,24 @@ redirect_from:
   - /about.html
 ---
 
-<div style="display: flex; align-items: center; gap: 20px; flex-wrap: wrap;">
+<table>
+  <tr>
+    <td style="vertical-align: top; padding-right: 20px;">
+      <img src="/images/avatar.png" alt="My photo" style="width: 150px; border-radius: 10px;">
+    </td>
+    <td style="vertical-align: top;">
+      <p>欢迎来到我的主页！</p>
+      <p>
+        我目前是香港科技大学（广州）信息枢纽（
+        <a href="https://www.hkust-gz.edu.cn/academics/hubs-and-thrust-areas/information-hub/" target="_blank">Information Hub (GZ)</a>
+        ）的数据科学与分析专业的本科生（
+        <a href="https://www.hkust-gz.edu.cn/" target="_blank">HKUST(GZ)</a>
+        ）。
+      </p>
+    </td>
+  </tr>
+</table>
 
-  <div style="flex: 0 0 auto;">
-    <img src="/images/avatar.png" alt="My photo" style="width: 150px; border-radius: 50%;">
-  </div>
-
-  <div style="flex: 1 1 auto; min-width: 250px;">
-    <p>欢迎来到我的主页！</p>
-    <p>
-      我目前是香港科技大学（广州）信息枢纽（
-      <a href="https://www.hkust-gz.edu.cn/academics/hubs-and-thrust-areas/information-hub/" target="_blank">Information Hub (GZ)</a>
-      ）的数据科学与分析本科生（
-      <a href="https://www.hkust-gz.edu.cn/" target="_blank">HKUST(GZ)</a>
-      ）。
-    </p>
-  </div>
-
-</div>
 
 ---
 
