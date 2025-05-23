@@ -66,13 +66,13 @@ social:
 # Author / Sidebar
 author:
   name: "唐国富"
-  avatar: "/images/avatar.jpg"
+  avatar: 
   bio: "本科生 @ HKUST(GZ)，研究兴趣包括数学形式化、AI中的数学与纯数学"
 
 # Include/Exclude
 include:
   - .htaccess
-  - pages
+  - _pages
   - files
 
 exclude:
