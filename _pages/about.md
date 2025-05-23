@@ -7,11 +7,27 @@ redirect_from:
   - /about.html
 ---
 
-欢迎来到我的主页！
+<div style="display: flex; align-items: center; gap: 20px; flex-wrap: wrap;">
 
-我目前是香港科技大学（广州）信息枢纽（[Information Hub (GZ)](https://www.hkust-gz.edu.cn/academics/hubs-and-thrust-areas/information-hub/)）的数据科学与分析本科生（[HKUST(GZ)](https://www.hkust-gz.edu.cn/)）。
+  <div style="flex: 0 0 auto;">
+    <img src="/images/avatar.png" alt="My photo" style="width: 150px; border-radius: 50%;">
+  </div>
+
+  <div style="flex: 1 1 auto; min-width: 250px;">
+    <p>欢迎来到我的主页！</p>
+    <p>
+      我目前是香港科技大学（广州）信息枢纽（
+      <a href="https://www.hkust-gz.edu.cn/academics/hubs-and-thrust-areas/information-hub/" target="_blank">Information Hub (GZ)</a>
+      ）的数据科学与分析本科生（
+      <a href="https://www.hkust-gz.edu.cn/" target="_blank">HKUST(GZ)</a>
+      ）。
+    </p>
+  </div>
+
+</div>
 
 ---
+
 
 ### 📬 Contact
 - Email: gtang794@connect.hkust-gz.edu.cn
@@ -20,9 +36,9 @@ redirect_from:
 
 ### 🔬 Research Interests
 
-- 数学形式化方法（Formal Methods in Mathematics）/Lean4 语言
+- 数学形式化方法（Formal Methods in Mathematics）/ Lean4 语言
 - 人工智能中的数学理论基础（Mathematics in Artificial Intelligence）
-- 抽象代数、实变函数与分析基础（Pure Mathematics）
+- 纯数学（Pure Mathematics）
 
 ---
 
