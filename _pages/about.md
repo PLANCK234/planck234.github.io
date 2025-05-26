@@ -45,7 +45,8 @@ redirect_from:
 ---
 
 ### 📘 Academic progress
-- 2025年5月24-25日：自学初等数论和haskell语言
+- 2025年5月27日：学习并design thinking和可持续发展
+- 2025年5月24-27日：自学初等数论和haskell语言
   - 学习函数式编程思想
   - haskell语言入门
   - 学习λ演算法
