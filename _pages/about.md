@@ -45,7 +45,8 @@ redirect_from:
 ---
 
 ### 📘 Academic progress
-- 2025年5月27日：学习并design thinking和可持续发展
+- 2025年6月2日-7日: 参加可持续发展设计夏令营
+- 2025年5月27日-6月2日：学习并design thinking和可持续发展
 - 2025年5月24-27日：自学初等数论和haskell语言
   - 学习函数式编程思想
   - haskell语言入门
