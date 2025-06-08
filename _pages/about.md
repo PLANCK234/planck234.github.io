@@ -45,8 +45,10 @@ redirect_from:
 ---
 
 ### 📘 Academic progress
-- 2025年6月2日-7日: 参加可持续发展设计夏令营
-- 2025年5月27日-6月2日：学习并design thinking和可持续发展
+- 2025年6月2日-7日: 参加<a href="[https://www.hkust-gz.edu.cn/academics/hubs-and-thrust-areas/information-hub/](https://ssc.hkust.edu.hk/opportunities-events/sustainable-design-thinking-certificate-program-2025)" target="_blank">2025SustainableDesignThinkingCertificateProgram</a>
+  - 与Yuelin KUANG, Oscar Chan, lssa组成的team做出的项目“微笑校园树洞”获得二等奖，并得到学校支持，有机会落地。
+  - 学习了UI界面的设计，掌握了Figma的使用。
+- 2025年5月27日-6月2日：学习design thinking和可持续发展相关知识
 - 2025年5月24-27日：自学初等数论和haskell语言
   - 学习函数式编程思想
   - haskell语言入门
